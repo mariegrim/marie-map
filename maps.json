@@ -24,7 +24,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"map.json#startFromMap"
+                 "value":"map.json#startFromSomwhere"
                 }],
          "type":"tilelayer",
          "visible":true,
