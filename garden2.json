@@ -27,6 +27,12 @@
          "id":11,
          "name":"exitToHouse",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":"..\/marie-map\/house.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":31,
