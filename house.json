@@ -60,7 +60,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/marie-map\/garden2.json"
+                 "value":"..\/marie-map\/garden2.json#startEast"
                 }],
          "type":"tilelayer",
          "visible":true,
