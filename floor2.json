@@ -45,6 +45,12 @@
          "id":8,
          "name":"exitFloor3",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":"..\/marie-map\/floor3.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":18,
