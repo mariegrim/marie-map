@@ -45,6 +45,12 @@
          "id":12,
          "name":"exitToDungeon",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":"..\/marie-map\/dungeon2.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":31,
