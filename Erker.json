@@ -347,19 +347,6 @@
          "tilecount":56,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":4,
-         "firstgid":4566,
-         "image":"Pixel Flame Animation GIF & Spritesheet, 32x32\/Pixel Flame Spritesheet.png",
-         "imageheight":32,
-         "imagewidth":128,
-         "margin":0,
-         "name":"Pixel Flame Spritesheet",
-         "spacing":0,
-         "tilecount":4,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
