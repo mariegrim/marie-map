@@ -516,7 +516,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":""
+                 "value":"Pipoya - License\n\n- For commercial or personal use.\n- Use and edit freely.\n- Not redistribute or resell this assets.\n- It can be used for game development and other productions.\n\nhttps:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32\n"
                 }],
          "spacing":0,
          "tilecount":48,
@@ -554,7 +554,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"Krieger - Sandland Tileset free by Bazzy1985\n"
+                 "value":"- Krieger -"
                 }],
          "spacing":0,
          "tilecount":2,
