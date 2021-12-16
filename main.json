@@ -84,7 +84,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"main.json"
+                 "value":"market.json"
                 }],
          "type":"tilelayer",
          "visible":true,
